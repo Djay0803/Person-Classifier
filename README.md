@@ -22,3 +22,5 @@ pip install opencv-python
 pip install matplotlib
 pip install Flask
 ```    
+## Authors
+- [Dhananjay Prajapati](https://www.linkedin.com/in/dhananjay-prajapati-35a1941b0)
