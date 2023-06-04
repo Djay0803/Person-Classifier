@@ -14,12 +14,11 @@ In summary, this project combines face matching using SVM classification, face d
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages.
 
 ```bash
 pip install numpy
 pip install opencv-python
 pip install matplotlib
 pip install Flask
-```
-    
+```    
